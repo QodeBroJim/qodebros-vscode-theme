@@ -1,0 +1,21 @@
+{
+  "name": "qodebros-dark-theme",
+  "displayName": "QodeBros-Dark-Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Qodebros-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Qodebros-Dark-color-theme.json"
+      }
+    ]
+  }
+}
