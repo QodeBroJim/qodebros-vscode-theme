@@ -58,9 +58,9 @@
 		"sideBar.background":"#101215",
 		"sideBar.foreground":"#7f8792",
 		"sideBarTitle.foreground":"#25a2a6",
-		"sideBarSectionHeader.background":"#0ca23e",
-		"sideBarSectionHeader.foreground":"#0e1011",
-		"sideBar.border":"#151b25",
+		"sideBarSectionHeader.background":"#101215",
+		"sideBarSectionHeader.foreground":"#d2d2d2",
+		"sideBar.border":"#0bc584",
 
 		"notificationCenter.border":"#25a2a6",
 		"notificationCenterHeader.foreground":"#fff",
